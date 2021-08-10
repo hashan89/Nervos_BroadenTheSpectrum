@@ -5,7 +5,7 @@
 
 #### 2. A link to the Layer 1 address you funded on the Testnet Explorer:
 
-![https://explorer.nervos.org/aggron/address/ckt1qyqtwcsrwa7auax8a5xd3rs3jr9x469wr86sa362qg](https://explorer.nervos.org/aggron/address/ckt1qyqtwcsrwa7auax8a5xd3rs3jr9x469wr86sa362qg)
+https://explorer.nervos.org/aggron/address/ckt1qyqtwcsrwa7auax8a5xd3rs3jr9x469wr86sa362qg
 
 #### 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2:
 

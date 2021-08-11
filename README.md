@@ -9,3 +9,5 @@ Nervos Hackathon Broaden the Spectrum solutions
 
 [3_Issue a Smart Contract Call to the Deployed Smart Contract](3_smart_contract_call/readme.md)
 
+[4_Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](4_sudt_token/readme.md)
+

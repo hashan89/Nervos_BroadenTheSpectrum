@@ -7,3 +7,5 @@ Nervos Hackathon Broaden the Spectrum solutions
 
 [2_Deploy a Simple Ethereum Smart Contract on Polyjuice](2_polyjuice/readme.md)
 
+[3_Issue a Smart Contract Call to the Deployed Smart Contract](3_smart_contract_call/readme.md)
+

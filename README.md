@@ -11,3 +11,5 @@ Nervos Hackathon Broaden the Spectrum solutions
 
 [4_Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](4_sudt_token/readme.md)
 
+[5_Deploy the ERC20 Proxy Contract for the Deposited SUDT](5_deploy_erc20/readme.md)
+
